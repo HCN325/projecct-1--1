@@ -1,7 +1,10 @@
-# projecct-1--1
-A testing respository
-#第一个Github仓库
-我是一名精仪专业大一新生
-##正在学习：
-Git
-GitHub
+# 我的第一个 GitHub 仓库
+
+大家好，我是 **精仪专业** 的大一新生！
+
+## 我正在学习：
+- Git
+- GitHub
+- VS Code
+
+> 这是我跨出代码世界的第一步！
